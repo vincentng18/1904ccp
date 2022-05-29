@@ -1,0 +1,35 @@
+body {
+    margin-top: 27px;
+    background-color: #fffdfc;
+}
+
+p {
+    color: #731600;
+    font-family: Segoe UI;
+}
+
+h1 {
+    margin: auto;
+    font-family: "Freight Big", Icons;
+    font-style: italic;
+    font-size: 33.984px;
+    line-height: 40.7808px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #3d2a59;
+}
+
+.name {
+    margin-bottom: 11px;
+    margin-left: 45px;
+    color: #3d2a59;
+    font-family: Freight Big;
+    font-style: italic;
+}
+
+.module {
+    margin-left: 83px;
+    color: #731600;
+    font-family: Segoe UI;
+    text-decoration: none;
+}
